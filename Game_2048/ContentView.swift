@@ -1,9 +1,6 @@
 import SwiftUI
 import AVFoundation
 
-
-
-
 struct ContentView: View {
     @StateObject private var gameManager = GameManager()
 
