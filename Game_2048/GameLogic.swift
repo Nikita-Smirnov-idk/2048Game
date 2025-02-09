@@ -1,9 +1,3 @@
-//
-//  GameLogic.swift
-//  2048Game
-//
-//  Created by IvanM3 on 12.01.2025.
-//
 import SwiftUI
 
 class GameManager: ObservableObject {
