@@ -1,9 +1,3 @@
-//
-//  GameSound.swift
-//  2048Game
-//
-//  Created by IvanM3 on 12.01.2025.
-//
 import AVFoundation
 
 var audioPlayer: AVAudioPlayer?
